@@ -7,4 +7,6 @@ Credits to biscuitaep for the OpenCore icons
 
 The SMBIOS is changed, so please if you're going to use this EFI, make sure everything's correct or set it up yourself
 
+BEFORE INSTALLING MAKE SURE BIOS IS SET UP AS IN THE DORTANIA GUIDE
+
 Have fun and successfull hackintoshing!
